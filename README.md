@@ -20,4 +20,8 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apishingoooooonanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shingoooooon&show_icons=true&locale=en&layout=compact" alt="shingoooooon" /></span>
+<!-- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shingoooooon&show_icons=true&locale=en" alt="shingoooooon" /></p> -->
+
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shingoooooon&" alt="ayanorii" /></span>
