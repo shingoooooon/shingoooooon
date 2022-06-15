@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shingo</h1>
-<h3 align="center">Full-stuck developer from Japan</h3>
+<h3 align="center">Full Stack Developer from Japan</h3>
 
 - 📫 How to reach me **skksb75@gmail.com**
 
