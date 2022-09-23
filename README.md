@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shingo</h1>
 <h3 align="center">Full Stack Developer from Japan</h3>
 
-- I'm currently learning React
+- I'm currently learning PHP
 
 - 📫 How to reach me **skksb75@gmail.com**
 
