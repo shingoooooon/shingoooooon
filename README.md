@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shingo</h1>
-<h3 align="center">Full Stack Developer from Japan based in Phnom Penh, Cambodia</h3>
+<h3 align="center">Full Stack Developer from 🇯🇵 based in Phnom Penh, Cambodia🇭</h3>
 
 - I'm currently learning PHP
 
