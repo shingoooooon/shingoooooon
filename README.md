@@ -1,29 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shingo</h1>
-<h3 align="center">Full Stack Developer from 🇯🇵 based in Phnom Penh, Cambodia</h3>
-
+<h3 align="center">Full Stack Developer from Japan🇯🇵 based in Phnom Penh, Cambodia🇰🇭</h3>
 - 📫 How to reach me **skksb75@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/shingokubomura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shingo's linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shingokubomura/" target="blank">
+    <img alt="my skills" src="https://skillicons.dev/icons?perline=8&i=linkedin" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img                                                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/17f9ca873217e5946dad04490329d9a7a0e3bc282b3f32849fb8b5f451689c1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d706c61696e2e737667" alt="ruby" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img　src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
+<h3 align="left">My skills:</h3>
+<img alt="my skills" src="https://skillicons.dev/icons?perline=8&i=html,css,js,ts,jquery,nodejs,nestjs,vue,nuxtjs,tailwind,php,laravel,ruby,rails,bootstrap,mysql,postgres,firebase,git,github,figma" />
 
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shingoooooon&show_icons=true&&theme=nord&locale=en&layout=compact" alt="shingoooooon" height="150px"/></span>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shingoooooon&show_icons=true&theme=nord&locale=en" alt="shingoooooon" height="150px" /></p>
