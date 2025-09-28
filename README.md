@@ -1,5 +1,5 @@
 
-<img width="1536" height="1024" alt="ChatGPT Image Sept 28 2025 (1)" src="https://github.com/user-attachments/assets/51cababc-aa34-401e-8ba7-270feb1cfab1" />
+<img width="1536" height="500" alt="hi" src="https://github.com/user-attachments/assets/430cbc8b-600b-475e-99a8-035f0c26f682" />
 
 <h1 align="center">Full Stack Developer from Japan🇯🇵</h1>
 <h3 align="left">Connect with me:</h3>
